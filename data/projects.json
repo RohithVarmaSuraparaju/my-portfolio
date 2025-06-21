@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Smart Elevator System with Floor-Level Prioritizing using Object Detection",
+    "fullDetails": "The increasing need for effective vertical transit systems in present-day areas has led to the creation of clever elevator system solutions. In order to improve floor-level prioritizing, this study presents a Smart Elevator System (SES) that incorporates innovative object-detecting technologies.The proposed approach automatically alters elevator priority in real-time by using strong computer vision algorithms to identify and assess the number of passengers waiting on each floor. Computer vision algorithms identify and track passengers in real-time, allowing for the dynamic adjustment of elevator priorities based on the object detection count. Through the use of machine learning models, the system can detect user counts and make intelligent adjustments to reduce waiting times and energy usage. The integration of Internet of Things (IoT) devices further improves system responsiveness.\n\nOur proposed work shows notable gains in waiting time and energy savings through intelligent floor-level prioritization. A step forward in addressing the growing need for effective elevator usage in modern settings such as airports, tall buildings, and institutes is the deployment of the Smart Elevator System with Intelligent Floor Level Prioritization using Object Detection.\n\nThe crucial need for these public areas to have the best possible elevator use shows the significance of innovative methods to improve daily productivity. In addition to providing a workable solution to this problem, our suggested model is notable for its ability to reduce passenger wait times, which ultimately enhances and speeds up the transit experience. Furthermore, the integration of object detection-based intelligent floor prioritizing improves the use of elevators while reducing power consumption, which is in line with the need for environmentally friendly and sustainable technology.",
+    "tech": "Python, OpenCV, YOLOv5, IoT Integration",
+    "publishedIn": "2024 ADICS Conference",
+    "authors": "Rohith Varma Suraparaju, Venkata Sai Anjemeti, Revathy S",
+    "links": {
+      "paper": "https://github.com/RohithVarmaSuraparaju/smart-elevator-system/blob/main/Published%20Paper.pdf",
+      "expo": "https://github.com/RohithVarmaSuraparaju/smart-elevator-system/blob/main/Expo.pdf",
+      "certificate": "https://github.com/RohithVarmaSuraparaju/smart-elevator-system/blob/main/ADICS%20CONFERENCE%20CERTIFICATE.pdf"
+    }
+  }
+]

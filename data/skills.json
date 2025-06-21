@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Python",
+    "category": "Programming",
+    "logo": "logos/python.png"
+  },
+  {
+    "name": "Java",
+    "category": "Programming",
+    "logo": "logos/java.png"
+  },
+  {
+    "name": "C/C++",
+    "category": "Programming",
+    "logo": "logos/cpp.png"
+  },
+  {
+    "name": "SQL",
+    "category": "Programming",
+    "logo": "logos/sql.png"
+  },
+  {
+    "name": "VS Code",
+    "category": "Tools",
+    "logo": "logos/vscode.png"
+  },
+  {
+    "name": "Jupyter",
+    "category": "Tools",
+    "logo": "logos/jupyter.png"
+  },
+  {
+    "name": "Google Colab",
+    "category": "Tools",
+    "logo": "logos/colab.png"
+  },
+  {
+    "name": "Power BI",
+    "category": "Tools",
+    "logo": "logos/powerbi.png"
+  },
+  {
+    "name": "Tableau",
+    "category": "Tools",
+    "logo": "logos/tableau.png"
+  },
+  {
+    "name": "NumPy",
+    "category": "Libraries",
+    "logo": "logos/numpy.png"
+  },
+  {
+    "name": "Pandas",
+    "category": "Libraries",
+    "logo": "logos/pandas.png"
+  },
+  
+  {
+    "name": "Regression",
+    "category": "Machine Learning",
+    "logo": "logos/regression.png"
+  },
+  {
+    "name": "Classification",
+    "category": "Machine Learning",
+    "logo": "logos/classification.png"
+  },
+  {
+    "name": "NLP",
+    "category": "Machine Learning",
+    "logo": "logos/nlp.png"
+  },
+  {
+    "name": "Computer Vision",
+    "category": "Machine Learning",
+    "logo": "logos/computervision.png"
+  }
+]

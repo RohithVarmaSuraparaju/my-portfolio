@@ -1,0 +1,26 @@
+[
+  {
+    "provider": "Google",
+    "title": "Translate Data into Insights",
+    "url": "https://coursera.org/share/6e8c4083845d0fd045655a062b370903",
+    "logo": "logos/google.png"
+  },
+  {
+    "provider": "Google",
+    "title": "Foundations of Data Science",
+    "url": "https://coursera.org/share/8b069d6aa603c809866ff288ca6b25e5",
+    "logo": "logos/google.png"
+  },
+  {
+    "provider": "Google",
+    "title": "Data, Data, Everywhere",
+    "url": "https://coursera.org/share/b197a0dbe35e6318e8cacce78c078ad3",
+    "logo": "logos/google.png"
+  },
+  {
+    "provider": "AWS Academy",
+    "title": "Cloud Foundations",
+    "url": "https://www.credly.com/badges/7be2cfea-222f-40b2-8c69-a212b236ceb2/public_url",
+    "logo": "logos/aws.png"
+  }
+]
